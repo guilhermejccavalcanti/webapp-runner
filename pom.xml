@@ -105,7 +105,11 @@
         <dependency>
             <groupId>com.github.jkutner</groupId>
             <artifactId>tomcat-redis-session</artifactId>
+<<<<<<< HEAD
             <version>8.0.18.0</version>
+=======
+            <version>0.8</version>
+>>>>>>> 59a53c0
         </dependency>
         <dependency>
             <groupId>com.beust</groupId>
